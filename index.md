@@ -17,8 +17,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Danial Tleuzhanov's First CS193 Homework
-## Header 2
-### Header 3
 
 - CS193 provides essential knowledge for future degree in CS and DS 
 - CS193 provides essential tools for my successful academic career 
