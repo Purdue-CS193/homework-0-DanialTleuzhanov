@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Danial Tleuzhanov's First CS193 Homework
+
+
+- CS193 provides essential knowledge for future degree in CS and DS 
+- CS193 provides essential tools for my successful academic career 
+- CS193 provides knowledge and tools in very interesrting and funny way
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
